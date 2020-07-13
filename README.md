@@ -7,6 +7,11 @@ Submitted by: **Sandy Camilo**
 
 Time spent: **2** hours spent in total
 
+
+<img src="http://g.recordit.co/a7hIRm6Frh.gif" width="250">
+
+
+
 ## User Stories
 
 The following **required** functionality is complete:
