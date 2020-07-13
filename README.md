@@ -8,10 +8,6 @@ Submitted by: **Sandy Camilo**
 Time spent: **2** hours spent in total
 
 
-<img src="http://g.recordit.co/a7hIRm6Frh.gif" width="250">
-
-
-
 ## User Stories
 
 The following **required** functionality is complete:
@@ -30,9 +26,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+<img src="http://g.recordit.co/a7hIRm6Frh.gif" width="250">
 
 
 ## License
